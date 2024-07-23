@@ -1,2 +1,4 @@
 # Dev-Irtaza-1
-This is my first respostry. Aurthor - Dev Irtaza
+This is my first Git Repository. 
+<br>
+Aurthor - Dev Irtaza
